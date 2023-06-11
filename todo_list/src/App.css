@@ -5,7 +5,7 @@ h1 {
   }
 
   body {
-    background: grey
+    background: rgb(189, 147, 147)
   }
   #todo-list {
     width: 500px;
@@ -73,3 +73,7 @@ h1 {
     display: flex;
     justify-content: space-between;
   }
+.tdtxt{
+    text-align: center;
+    color: yellow;
+}
